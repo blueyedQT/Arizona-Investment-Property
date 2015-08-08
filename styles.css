@@ -1,3 +1,17 @@
 body {
+
+}
+
+#header {
+	height: 151px;
+}
+
+#header_top {
+		background-color: #e5e5e5;
+		height: 120px;
+}
+
+.navigation_bar {
 	background-color: #8c0101;
+	height: 30px;
 }
